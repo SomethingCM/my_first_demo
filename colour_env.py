@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 #这些是定义颜色的函数
 def ingreen(s):
     return"%s[30;32;2m%s%s[0m"%(chr(27), s, chr(27))
